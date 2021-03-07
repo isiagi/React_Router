@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    background-color: rgb(87, 94, 97);
+    min-height: 10vh;
+    color: white;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+.navList{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    cursor: pointer;  
+}
